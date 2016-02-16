@@ -1,0 +1,28 @@
+name: Joaodanielpereira
+favicon: null
+layout_spectrum: 0.5873218185734004
+typography_spectrum: 0.13633228559046984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.17606030055321753
+  lightness: 0.10762278665788472
+  saturation: 0.5937195473816246
+  rhythmicContrast: 0.06610837834887207
+purpose: []
